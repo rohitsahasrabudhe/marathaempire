@@ -7,7 +7,7 @@
 		</p>
 		<p>
 			<b>What information do we collect</b><br/>
-			This App does not collect or store any personal information about the User including the email address, phone number, name, IP address or other such identifiable information. The App also do not track any User choices or other personally identifiable information. We also do not use cookies in this App.
+			This App does not collect or store any personal information about the User including email address, phone number, name, IP address or other such identifiable information. The App also does not track any User choices or other personally identifiable information. We also do not use cookies in this App.
 		</p>
 		<p>
 			<b>Third party software</b><br/>
@@ -15,15 +15,15 @@
 		</p>
 		<p>
 			<b>User information is not shared</b><br/>
-			We also do not share or sell User information to any third parties. This is applicable even when the User contacts us via email, phone or any other secure channel. Since we do not save personally identifiable User information in this App, the possibility of sharing it with anyone is practically non-existant.
+			We also do not share or sell User information to any third parties. This is applicable even when the User contacts us via email, phone or any other secure channel. Since we do not save personally identifiable User information in this App, the possibility of sharing it with anyone later is practically non-existant.
 		</p>
 		<p>
 			<b>Online Privacy Policy</b><br/>
-			This policy is applicable only to the App and not to any User information that may be collected through offline sources.
+			This policy is applicable only to the above-mentioned App and not to any User information that may be collected through offline sources.
 		</p>
 		<p>
 			<b>User consent</b><br/>
-			By using this App, the User is deemed to have consented to this Privacy Policy.
+			By using this App and the services provided therein, the User expressly consents to this Privacy Policy.
 		</p>
 		<p>
 			<b>Changes to Privacy Policy</b><br/>
